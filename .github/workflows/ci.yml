@@ -35,4 +35,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: ${{ secrets.22i0974 }}/my-python-app:latest
+        tags: ${{ secrets.MY_SECRET }}/my-python-app:latest
